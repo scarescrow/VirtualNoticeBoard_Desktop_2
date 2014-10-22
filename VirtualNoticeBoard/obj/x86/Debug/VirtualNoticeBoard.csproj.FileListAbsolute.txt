@@ -1,0 +1,11 @@
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\bin\Debug\VirtualNoticeBoard.exe
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\bin\Debug\VirtualNoticeBoard.pdb
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\VirtualNoticeBoard.Form1.resources
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\VirtualNoticeBoard.Properties.Resources.resources
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\VirtualNoticeBoard.exe
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\VirtualNoticeBoard.pdb
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\bin\Debug\VirtualNoticeBoard.exe.config
+c:\users\scarecrow\documents\visual studio 2010\Projects\VirtualNoticeBoard\VirtualNoticeBoard\obj\x86\Debug\VirtualNoticeBoard.Form2.resources

@@ -30,7 +30,11 @@ namespace VirtualNoticeBoard
                 MessageBox.Show("Please enter all details!");
                 return;
             }
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://localhost/vnb/desktop/action.php");
+
+            //String url = "http://localhost/vnb/desktop/action.php";
+            String url = "http://ieeedtu.com/sagnik/vnb/desktop/action.php";
+ 
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             request.Method = "POST";
 
             String formContent = "subject=" + textBox1.Text +

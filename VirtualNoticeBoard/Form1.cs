@@ -21,7 +21,10 @@ namespace VirtualNoticeBoard
 
         private void button1_Click(object sender, EventArgs e)
         {
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://localhost/vnb/desktop/login.php");
+            String url = "http://localhost/vnb/desktop/login.php";
+            //String url = "http://ieeedtu.com/sagnik/vnb/desktop/login.php";
+
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             request.Method = "POST";
 
             String formContent = "email=" + textBox1.Text +
